@@ -1,0 +1,9 @@
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\bin\Release\EmployeeDatabase.exe.config
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\bin\Release\EmployeeDatabase.exe
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\bin\Release\EmployeeDatabase.pdb
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\obj\Release\EmployeeDatabase.ConnectForm.resources
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\obj\Release\EmployeeDatabase.Form1.resources
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\obj\Release\EmployeeDatabase.Properties.Resources.resources
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\obj\Release\EmployeeDatabase.csproj.GenerateResource.Cache
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\obj\Release\EmployeeDatabase.exe
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\obj\Release\EmployeeDatabase.pdb

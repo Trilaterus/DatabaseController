@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Doc>
+  <Login>
+    <server>localhost</server>
+    <database>people</database>
+    <userid>root</userid>
+    <servercheck>True</servercheck>
+    <databasecheck>True</databasecheck>
+    <useridcheck>True</useridcheck>
+  </Login>
+</Doc>

@@ -1,0 +1,39 @@
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe.config
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Form1.resources
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Properties.Resources.resources
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.GenerateResource.Cache
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.ConnectForm.resources
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase2\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase3\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe.config
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase3\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase3\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase3\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase3\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase3\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.ConnectForm.resources
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase3\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Form1.resources
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase3\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Properties.Resources.resources
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase3\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.GenerateResource.Cache
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase3\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.SQLDatabaseController.resources
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase3\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase4\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe.config
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase4\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase4\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase4\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase4\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.ConnectForm.resources
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase4\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Form1.resources
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase4\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Properties.Resources.resources
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase4\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.SQLDatabaseController.resources
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase4\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.GenerateResource.Cache
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase4\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase4\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\Users\Scenex User\Desktop\C# Solutions\EmployeeDatabase4\EmployeeDatabase\EmployeeDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Hussain\Desktop\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe.config
+C:\Users\Hussain\Desktop\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\Users\Hussain\Desktop\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
+C:\Users\Hussain\Desktop\EmployeeDatabase\DatabaseController\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe.config
+C:\Users\Hussain\Desktop\EmployeeDatabase\DatabaseController\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\Users\Hussain\Desktop\EmployeeDatabase\DatabaseController\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
